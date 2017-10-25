@@ -1,0 +1,197 @@
+/* Universal */
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+/*li {*/
+/*    width: 70px;*/
+/*    display: inline-block;*/
+/*}*/
+
+p {
+    font-family: "Lousida Console", sans-serif;
+}
+
+h1 {
+    font-family: "Lousida Console", sans-serif;
+}
+
+/* Universal ends*/
+
+
+/* Header */
+
+.main-nav {
+    background-color: rgba(0, 0, 0, .1);
+    height: 95px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1;
+}
+
+.nav-links {
+    margin-right: 20px;
+    position: relative;
+    top: 25px;
+    list-style-type: none;
+    float: right;
+}
+
+.nav {
+    width: 70px;
+    display: inline-block;
+}
+
+.logo {
+    height: 105px;
+    width: 150px;
+}
+
+.link {
+    color: purple;
+    text-decoration: none;
+}
+
+.link:hover {
+    opacity: .3;
+    color: red;
+}
+
+/* Header ends */
+
+/* Hero */
+
+.hero {
+    height: 1000px;
+    background-image: url(../images/white.jpeg);
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+}
+
+.hero-content {
+    background-color: rgba(0, 0, 0, 0.2);
+    margin: auto;
+    width: 600px;
+    margin-top: 150px;
+    padding: 15px;
+    color: #fff;
+    border-style: ridge;
+    border-width: 5px;
+}
+
+.center {
+    padding: 50px;
+    position: relative;
+}
+
+
+.hero-image {
+    position: absolute;
+    left: 450px;
+    height: 500px;
+    top: 550px;
+}
+
+/* Hero ends */
+
+/* Content */
+
+.content {
+    height: 1000px;
+    text-align: center;
+    background-image: url(..images/white.jpeg);
+    background-size: cover;
+}
+
+.content2 {
+    height: 2000px;
+    text-align: center;
+    background-size: cover;
+}
+
+.paragraph1 {
+    background-color: rgba(0, 0, 0, 0.2);
+    margin: auto;
+    width: 600px;
+    padding: 15px;
+    color: #fff;
+    border-style: ridge;
+    border-width: 5px;
+    position: absolute;
+    left: 50px;
+}
+
+.paragraph2 {
+    background-color: rgba(0, 0, 0, 0.2);
+    margin: auto;
+    width: 600px;
+    padding: 15px;
+    color: #fff;
+    border-style: ridge;
+    border-width: 5px;
+    position: absolute;
+    right: 50px;
+}
+
+.content-image {
+    position: absolute;
+    left: 50px;
+    top: 350px;
+}
+
+.paragraph3 {
+    background-color: rgba(0, 0, 0, 0.2);
+    margin: auto;
+    width: 600px;
+    padding: 15px;
+    color: #fff;
+    border-style: ridge;
+    border-width: 5px;
+    position: absolute;
+    right: 50px;
+    bottom: 100px;
+}
+
+.contract {
+    color: black;
+}
+
+.para3-links {
+    text-align: left;
+}
+
+
+/* Content ends */
+
+/* Footer */
+
+.footer {
+    position: relative;
+	bottom: 0;
+	height: 95px;
+	width: 100%;
+	background-color: rgba(0, 0, 0, .1);
+}
+
+.social-media {
+	position: absolute;
+	left: 42%;
+}
+
+.copyright {
+	position: absolute;
+	top: 45px;
+	left: 46%;
+}
+
+.fa:hover {
+	opacity: 0.3;
+	color: red;
+}
+
+/* Footer ends */

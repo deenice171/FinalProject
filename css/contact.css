@@ -1,0 +1,22 @@
+.contact-form {
+    background-color: rgba(0, 0, 0, 0.2);
+    height: 600px;
+    width: 80%;
+    border-style: ridge;
+    border-width: 5px;
+    position: relative;
+}
+
+.contact {
+    position: absolute;
+    border-style: ridge;
+    border-width: 5px;
+    left: 0;
+}
+
+.form {
+    position: absolute;
+    border-style: ridge;
+    border-width: 5px;
+    right: 0;
+}
