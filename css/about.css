@@ -2,12 +2,12 @@
     position: relative;
     border-style: ridge;
     border-width: 10px;
-    margin: 20px auto;
+    margin: 70px auto;
     height: 800px;
     width: 80%;
     top: 70px;
     padding: 50px;
-    background-color: rgba(0, 0, 0, .1);
+    background-image: url(..images/white.jpeg);
 }
 
 .box1 {
@@ -28,11 +28,9 @@
 .box3 {
     position: absolute;
     width: 45%;
-    bottom: 70px;
+    bottom: 30px;
     left: 300px;
-    border-style: ridge;
-    
-    border-width: 8px;
+    color: rgba(0, 0, 0, 0.5);
     text-align: center;
 }
 

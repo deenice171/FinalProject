@@ -1,0 +1,19 @@
+.content-container {
+    position: relative;
+    border-style: ridge;
+    border-width: 10px;
+    margin: 70px auto;
+    height: 1500px;
+    width: 80%;
+    top: 70px;
+    padding: 50px;
+}
+
+.content {
+    color: rgba(0, 0, 0, 0.5);
+    text-align: left;
+}
+
+.font {
+    font-size: 20px;
+}
