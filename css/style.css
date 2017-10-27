@@ -230,4 +230,8 @@ h1 {
 	color: red;
 }
 
+.color {
+    color: rgba(0, 0, 0, .2);
+}
+
 /* Footer ends */
