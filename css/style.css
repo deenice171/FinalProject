@@ -146,7 +146,7 @@ h1 {
     width: 600px;
     padding: 15px;
     color: rgba(0, 0, 0, 0.5);
-    border-style: ridge;
+    border-style: double;
     border-width: 5px;
     position: absolute;
     left: 50px;
@@ -157,7 +157,7 @@ h1 {
     width: 600px;
     padding: 15px;
     color: rgba(0, 0, 0, 0.5);
-    border-style: ridge;
+    border-style: double;
     border-width: 5px;
     position: absolute;
     right: 50px;
@@ -174,7 +174,7 @@ h1 {
     width: 600px;
     padding: 15px;
     color: rgba(0, 0, 0, 0.5);
-    border-style: ridge;
+    border-style: double;
     border-width: 5px;
     position: absolute;
     right: 50px;
@@ -194,7 +194,7 @@ h1 {
     width: 540px;
     padding: 15px;
     color: black;
-    border-style: ridge;
+    border-style: double;
     border-width: 5px;
     position: absolute;
     left: 50px;
@@ -222,7 +222,7 @@ h1 {
 .copyright {
 	position: absolute;
 	top: 45px;
-	left: 46%;
+	left: 47%;
 }
 
 .fa:hover {

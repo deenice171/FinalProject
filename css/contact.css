@@ -18,8 +18,9 @@ p {
 .contact-form {
     height: 1200px;
     width: 90%;
-    border-style: ridge;
+    border-style: double;
     border-width: 5px;
+    border-color: rgba(0, 0, 0, 0.5);
     position: relative;
     left: 75px;
 }

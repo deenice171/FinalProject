@@ -1,7 +1,8 @@
 .content-container {
     position: relative;
-    border-style: ridge;
+    border-style: double;
     border-width: 10px;
+    border-color: rgba(0, 0, 0, 0.5);
     margin: 70px auto;
     height: 800px;
     width: 80%;
